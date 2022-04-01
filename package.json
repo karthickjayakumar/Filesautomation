@@ -1,0 +1,15 @@
+{
+  "name": "filesautomation",
+  "version": "1.0.0",
+  "description": "Move Reports from SFDC to MSteams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthick J",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsforce": "^1.11.0"
+  }
+}
